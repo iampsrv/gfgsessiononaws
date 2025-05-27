@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWS demo app</title>
+</head>
+<body>
+    <h3>Upload to S3</h3>
+
+    <form action="{{url_for('upload')}}" method="post" enctype="multipart/form-data">
+        <span> Choose file to be uploaded </span>
+        <input type="file" name="file" value="file"> <span><input class= "button" type="submit"></span>
+        </form>
+        this app is served from {{myhost}} 
+</body>
+</html>
