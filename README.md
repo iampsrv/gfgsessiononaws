@@ -1,0 +1,3 @@
+Flat discount active on all GeeksforGeeks Courses. Avail before the limited time offers end: https://www.geeksforgeeks.org/courses
+
+To mark your attendance for this session, fill in this form: https://docs.google.com/forms/d/e/1FA...
